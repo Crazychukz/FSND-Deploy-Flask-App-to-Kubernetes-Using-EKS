@@ -28,5 +28,3 @@ htmlcov/
 .envrc
 .direnv
 
-# Environment File
-.env_file
